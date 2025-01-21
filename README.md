@@ -1,8 +1,3 @@
-# Fine-tuning-BERT-with-LoRA-quantization-technique
-
-Here is a README file in Markdown format for your GitHub repository based on the provided code:
-
-```markdown
 # Fine-Tuned BERT for Movie Review Classification
 
 This repository contains a Python implementation for fine-tuning a BERT-based model to classify movie reviews into positive or negative sentiment. The code leverages Hugging Face's `transformers` library, along with `datasets`, `evaluate`, and `peft` for efficient model training and evaluation.
