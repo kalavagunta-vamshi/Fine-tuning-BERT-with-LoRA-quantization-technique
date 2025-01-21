@@ -85,15 +85,19 @@ sentiment_examples = [
 
 ### Before Training:
 ```
-The movie was an absolute delight from start to finish! - Positive
-I wouldn't recommend this film to anyone; it was quite a letdown. - Negative
+The film's innovative cinematography left me in awe throughout. - Negative
+A disappointing sequel that fails to capture the magic of the original. - Negative
+The lead actor's performance was nothing short of Oscar-worthy. - Negative
+This movie is a complete disaster; avoid at all costs. - Negative
 ...
 ```
 
 ### After Training:
 ```
-The movie was an absolute delight from start to finish! - Positive
-I wouldn't recommend this film to anyone; it was quite a letdown. - Negative
+The film's innovative cinematography left me in awe throughout. - Positive
+A disappointing sequel that fails to capture the magic of the original. - Negative
+The lead actor's performance was nothing short of Oscar-worthy. - Positive
+This movie is a complete disaster; avoid at all costs. - Negative
 ...
 ```
 
